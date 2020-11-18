@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SquidzInk</title>
+    <link href="https://Squidz1nk.github.io/feed.xml" rel="self" />
+    <link href="https://Squidz1nk.github.io" />
+    <updated>2020-11-17T21:23:10-05:00</updated>
+    <author>
+        <name>Josiah McCracken</name>
+    </author>
+    <id>https://Squidz1nk.github.io</id>
+
+    <entry>
+        <title>Josiah&#x27;s Head</title>
+        <author>
+            <name>Josiah McCracken</name>
+        </author>
+        <link href="https://Squidz1nk.github.io/josiahs-head/"/>
+        <id>https://Squidz1nk.github.io/josiahs-head/</id>
+
+        <updated>2020-11-17T20:27:39-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Squidz1nk.github.io/media/posts/3/IMG_0205-2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://Squidz1nk.github.io/media/posts/3/IMG_0205.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-xs.png 300w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-sm.png 480w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-md.png 768w"  alt="" width="2466" height="2466"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ragged</title>
+        <author>
+            <name>Josiah McCracken</name>
+        </author>
+        <link href="https://Squidz1nk.github.io/ragged/"/>
+        <id>https://Squidz1nk.github.io/ragged/</id>
+
+        <updated>2020-11-17T21:23:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    And so The ragged rascal ran beyond his little field and into the woods where he sat on a log&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>And so The ragged rascal ran beyond his little field and into the woods where he sat on a log and picked at the bark with his freshly cut fingernails. Dirt mixed with blood beneath them and he winced at the uncomfortable sensation.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Josiah McCracken</name>
+        </author>
+        <link href="https://Squidz1nk.github.io/this-is-a-test-post/"/>
+        <id>https://Squidz1nk.github.io/this-is-a-test-post/</id>
+
+        <updated>2020-11-17T19:53:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my test post so I can see what will happen when I do things here Lah dee dah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my test post so I can see what will happen when I do things here Lah dee dah</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

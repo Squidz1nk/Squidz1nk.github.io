@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Squidz1nk.github.io/sitemap.xml

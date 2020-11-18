@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SquidzInk",
+    "description": "",
+    "home_page_url": "https://Squidz1nk.github.io",
+    "feed_url": "https://Squidz1nk.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://Squidz1nk.github.io/media/website/Artboard-1.png",
+    "author": {
+        "name": "Josiah McCracken"
+    },
+    "items": [
+        {
+            "id": "https://Squidz1nk.github.io/josiahs-head/",
+            "url": "https://Squidz1nk.github.io/josiahs-head/",
+            "title": "Josiah&#x27;s Head",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Squidz1nk.github.io/media/posts/3/IMG_0205.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-xs.png 300w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-sm.png 480w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-md.png 768w\"  alt=\"\" width=\"2466\" height=\"2466\"></figure>",
+            "image": "https://Squidz1nk.github.io/media/posts/3/IMG_0205-2.png",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T20:26:07-05:00",
+            "date_modified": "2020-11-17T20:27:39-05:00"
+        },
+        {
+            "id": "https://Squidz1nk.github.io/ragged/",
+            "url": "https://Squidz1nk.github.io/ragged/",
+            "title": "Ragged",
+            "summary": "And so The ragged rascal ran beyond his little field and into the woods where he sat on a log&hellip;",
+            "content_html": "<p>And so The ragged rascal ran beyond his little field and into the woods where he sat on a log and picked at the bark with his freshly cut fingernails. Dirt mixed with blood beneath them and he winced at the uncomfortable sensation.</p>",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T19:55:40-05:00",
+            "date_modified": "2020-11-17T21:23:10-05:00"
+        },
+        {
+            "id": "https://Squidz1nk.github.io/this-is-a-test-post/",
+            "url": "https://Squidz1nk.github.io/this-is-a-test-post/",
+            "title": "This is a test post",
+            "summary": "This is my test post so I can see what will happen when I do things here Lah dee dah",
+            "content_html": "<p>This is my test post so I can see what will happen when I do things here Lah dee dah</p>",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T19:53:58-05:00",
+            "date_modified": "2020-11-17T19:53:58-05:00"
+        }
+    ]
+}
