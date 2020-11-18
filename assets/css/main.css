@@ -9,20 +9,21 @@
   --font-weight-normal: 400;
   --font-weight-bold: 600;
   --headings-weight: 600;
-  --red: #F05454;
-  --white: #e8e8e8;
+  --red: #ee8695;
+  --white: #fbbbad;
   --black: #000000;
-  --lblue: #30475E;
+  --lblue: #4a7a96;
+  --blue: #333f58;
   --gray-1: #343435;
   --gray-2: #6D6E6F;
-  --dblue: #222831;
+  --dblue: #292831;
   --lighter: #F3F3F3;
   --color: #FF5151;
   --color-rgb: 255,81,81;
-  --text-color: #343435;
-  --headings-color: #101011;
-  --link-color: #FF5151;
-  --link-color-hover: #101011;
+  --text-color: #fbbbad;
+  --headings-color: #fbbbad;
+  --link-color: #ee8695;
+  --link-color-hover: #fbbbad;
 }
 @media all and (min-width: 56.25em) {
   :root {
@@ -142,7 +143,9 @@ html.no-scroll {
 }
 
 body {
-  background: var(--dblue);
+
+  background-image: url("https://www.transparenttextures.com/patterns/ice-age.png");
+  background: var(--blue);
   color: var(--text-color);
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
@@ -179,7 +182,7 @@ a:focus {
   transition: all 0.12s linear;
 }
 .invert:hover {
-  color: var(--link-color);
+  color: var(--red);
 }
 .invert:active {
   color: var(--link-color);
@@ -758,7 +761,7 @@ textarea {
 }
 
 .header {
-  background: var(--red);
+  background: var(--dblue);
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1690,7 +1693,7 @@ textarea {
 }
 
 .c-card {
-  background: var(--white);
+  background: var(--lblue);
   border-radius: var(--border-radius);
   -webkit-box-shadow: 1px 16px 18px -6px rgba(0, 0, 0, 0.08);
           box-shadow: 1px 16px 18px -6px rgba(0, 0, 0, 0.08);
@@ -1736,6 +1739,7 @@ textarea {
   font-size: 0.7901234568rem;
 }
 .c-card__title {
+  font-color: var(--white);
   font-size: 1rem;
   margin: 0.25rem 0 0.5rem;
 }
@@ -1744,7 +1748,7 @@ textarea {
   font-size: 0.7901234568rem;
 }
 .c-card__meta {
-  color: var(--gray-2);
+  color: var(--white);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2000,7 +2004,7 @@ textarea {
   margin: calc(2rem + 1vw) 0 0;
 }
 .post__nav__link {
-  color: var(--gray-2) !important;
+  color: var(--white) !important;
   display: block;
   font-size: 0.624295077rem;
   text-transform: uppercase;
