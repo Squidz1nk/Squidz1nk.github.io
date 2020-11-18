@@ -3,7 +3,7 @@
     <title>SquidzInk</title>
     <link href="https://Squidz1nk.github.io/feed.xml" rel="self" />
     <link href="https://Squidz1nk.github.io" />
-    <updated>2020-11-17T21:44:40-05:00</updated>
+    <updated>2020-11-17T21:46:11-05:00</updated>
     <author>
         <name>Josiah McCracken</name>
     </author>
@@ -17,13 +17,9 @@
         <link href="https://Squidz1nk.github.io/josiahs-head/"/>
         <id>https://Squidz1nk.github.io/josiahs-head/</id>
 
-        <updated>2020-11-17T21:44:40-05:00</updated>
+        <updated>2020-11-17T21:46:11-05:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://Squidz1nk.github.io/media/posts/3/IMG_0205.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-xs.png 300w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-sm.png 480w ,https://Squidz1nk.github.io/media/posts/3/responsive/IMG_0205-md.png 768w"  alt="" width="2466" height="2466"></figure>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Ragged</title>
