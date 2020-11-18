@@ -9,12 +9,13 @@
   --font-weight-normal: 400;
   --font-weight-bold: 600;
   --headings-weight: 600;
-  --white: #FFFFFF;
+  --red: #F05454;
+  --white: #e8e8e8;
   --black: #000000;
-  --dark: #101011;
+  --lblue: #30475E;
   --gray-1: #343435;
   --gray-2: #6D6E6F;
-  --light: #D5D5D5;
+  --dblue: #222831;
   --lighter: #F3F3F3;
   --color: #FF5151;
   --color-rgb: 255,81,81;
@@ -141,7 +142,7 @@ html.no-scroll {
 }
 
 body {
-  background: var(--white);
+  background: var(--dblue);
   color: var(--text-color);
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
@@ -757,7 +758,7 @@ textarea {
 }
 
 .header {
-  background: white;
+  background: var(--red);
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -2179,7 +2180,7 @@ textarea {
 }
 
 .footer {
-  background: var(--lighter);
+  background: var(--dblue);
   border-radius: var(--border-radius);
   padding: 4rem 0 3rem;
   margin: 4.5rem 0 0;
