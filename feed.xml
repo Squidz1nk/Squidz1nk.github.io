@@ -3,12 +3,32 @@
     <title>SquidzInk</title>
     <link href="https://Squidz1nk.github.io/feed.xml" rel="self" />
     <link href="https://Squidz1nk.github.io" />
-    <updated>2020-11-17T21:46:11-05:00</updated>
+    <updated>2020-11-20T10:33:46-05:00</updated>
     <author>
         <name>Josiah McCracken</name>
     </author>
     <id>https://Squidz1nk.github.io</id>
 
+    <entry>
+        <title>Test the sync feature</title>
+        <author>
+            <name>Josiah McCracken</name>
+        </author>
+        <link href="https://Squidz1nk.github.io/test-the-sync-feature/"/>
+        <id>https://Squidz1nk.github.io/test-the-sync-feature/</id>
+
+        <updated>2020-11-20T10:33:46-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I am testing the sync script! wahoo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am testing the sync script! wahoo</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Josiah&#x27;s Head</title>
         <author>
